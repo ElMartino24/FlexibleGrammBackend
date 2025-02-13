@@ -1,5 +1,5 @@
 {
-  "name": "oezbackend",
+  "name": "flexiblegrammBackend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,7 +7,7 @@
    "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
-  }
+  },
   "author": "Martino",
   "license": "ISC",
   "dependencies": {
