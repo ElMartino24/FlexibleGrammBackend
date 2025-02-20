@@ -15,7 +15,7 @@ const JWT_SECRET = process.env.JWT_SECRET;
 
 server.use(
   cors({
-    origin: ["http://localhost:5173"],
+    origin: ["https://flexiblegrammfrontend.onrender.com"],
     credentials: true,
   })
 );
